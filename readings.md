@@ -1,1 +1,2 @@
-## *Week 1*
+## Week 1
+### *Electronic Literature: What is it?*
