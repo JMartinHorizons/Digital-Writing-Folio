@@ -12,3 +12,13 @@
 
 # *Week 2*
 
+- [] What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+> Tarako: The words and line structure are the main elements at play. Cloud: There is a poetic treatment of the text in this piece, but it's predominantly pushed forward using visual elements and hyperlinks. Revolution: Text based, with role-playing elements. Shade: Text based again.
+- [] How are those elements meaningful?
+>Tarako
+- [] How are the works read differently from print literature?
+>
+- [] How is electronic literature different from print literature?
+>
+- [] What are the qualities of the works we might consider as qualities of electronic literature?
+>
