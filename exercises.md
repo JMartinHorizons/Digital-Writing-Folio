@@ -22,3 +22,12 @@
 > The various ways that electronic literature allows for randomized outputs and reader engagement are most apparent to me, but there are other aspects like linking and live feed integration that are fairly compelling. These simply wouldn't be available in print literature, without convoluted or innaccesible methods. 
 - [] What are the qualities of the works we might consider as qualities of electronic literature?
 >
+
+
+## Remix on 'Tarako Gorge', 'Camel Tail' by Sonny Rae Tempest
+- [] What aspects of the remix are the same?
+> The remix follows the general kinetic form, in that it dissappears after 24 lines. The stanzas are quatrains ass opposed to sonnets, and the content is of course completly different. There is character to the poem now (as in, pronouns imply conversation/ people) and the themes are vastly different. It feels much more musical, and they seem much more like lyrical than poetic word choice.
+- [] What aspects of the remix are different?
+> See above
+- [] Is the remix successful (why or why not)?
+> In some ways I like this remix more than the original, the words tend to work together better, and there is a more lyrical sense to the stanzas. The directness of the address (having pronouns) adds a more direct tone to the piece. 
