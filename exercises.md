@@ -15,10 +15,10 @@
 - [] What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 > Tarako: The words and line structure are the main elements at play. Cloud: There is a poetic treatment of the text in this piece, but it's predominantly pushed forward using visual elements and hyperlinks. Revolution: Text based, with role-playing elements. Shade: Text based again.
 - [] How are those elements meaningful?
->Tarako
+> Tarako: The infinite play between the different combinations of words and the poetic structure works to create a fugue-like state. I think it's succesful in presenting the chaotic assembly that nature tends to fall into. Cloud: I like that this work incorporates the viewer into the cloud through reading, but I was a little cooler on the visual presentation and activity. Revolution: I think the role-playing elements of this work quite well, the sense of producing a character or understanding them is well exercised with each letter sent. Shade: 
 - [] How are the works read differently from print literature?
->
+> Tarako: It can't be 
 - [] How is electronic literature different from print literature?
->
+> The various ways that electronic literature allows for randomized outputs and reader engagement are most apparent to me, but there are other aspects like linking and live feed integration that are fairly compelling. These simply wouldn't be available in print literature, without convoluted or innaccesible methods. 
 - [] What are the qualities of the works we might consider as qualities of electronic literature?
 >
