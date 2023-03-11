@@ -25,10 +25,10 @@
 - What are the qualities of the works we might consider as qualities of electronic literature?
 > Direct, substantial reader interaction; randomization and ephemeral works; integration with external information sources (i.e. hyperlinks, APIs); concern for contemporary issues like e-waste, climate change, social media.
 
-## Week 2 Remixes - 
+## Week 2 Remixes
 [To Make a Dadaist Poem](https://oval-deluxe-garnet.glitch.me/)
 
-[N+7]()
+[N+7](https://transparent-fuzzy-sprout.glitch.me/)
 
 [We Walk to You]()
 
