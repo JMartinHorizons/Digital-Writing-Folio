@@ -25,12 +25,17 @@
 - What are the qualities of the works we might consider as qualities of electronic literature?
 > Direct, substantial reader interaction; randomization and ephemeral works; integration with external information sources (i.e. hyperlinks, APIs); concern for contemporary issues like e-waste, climate change, social media.
 
+- Create a constraint (a restriction on your writing such as not using the letter "e" or a set number of syllables)
+> Each sentence must have 10 words and each line can only have 7 words.
+- Create a process (a process for creating writing such as picking the third word of each page of a book)
+>  
+
 ## Week 2 Remixes
 [To Make a Dadaist Poem](https://oval-deluxe-garnet.glitch.me/)
 
 [N+7](https://transparent-fuzzy-sprout.glitch.me/)
 
-[We Walk to You]()
+[We Walk to You](https://marvelous-amused-marsupial.glitch.me/)
 
 ## Questions on remix of 'Tarako Gorge': 'Camel Tail' by Sonny Rae Tempest
 - What aspects of the remix are the same?
