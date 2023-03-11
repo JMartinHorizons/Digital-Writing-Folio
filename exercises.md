@@ -27,7 +27,9 @@
 
 ## Week 2 Remixes - 
 [To Make a Dadaist Poem]()
+
 [N+7]()
+
 [We Walk to You]()
 
 ## Questiosn on remix of 'Tarako Gorge': 'Camel Tail' by Sonny Rae Tempest
