@@ -26,7 +26,7 @@
 > Direct, substantial reader interaction; randomization and ephemeral works; integration with external information sources (i.e. hyperlinks, APIs); concern for contemporary issues like e-waste, climate change, social media.
 
 ## Week 2 Remixes - 
-[To Make a Dadaist Poem]()
+[To Make a Dadaist Poem](https://oval-deluxe-garnet.glitch.me/)
 
 [N+7]()
 
