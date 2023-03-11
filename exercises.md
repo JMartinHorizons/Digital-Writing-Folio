@@ -32,7 +32,7 @@
 
 [We Walk to You]()
 
-## Questiosn on remix of 'Tarako Gorge': 'Camel Tail' by Sonny Rae Tempest
+## Questions on remix of 'Tarako Gorge': 'Camel Tail' by Sonny Rae Tempest
 - What aspects of the remix are the same?
 > The remix follows the general kinetic form, in that it dissappears after 24 lines. The stanzas are quatrains ass opposed to sonnets, and the content is, of course, completly different. There is character to the poem now (as in, pronouns imply conversation/ people) and the themes are vastly different. It feels much more musical, and they seem much more like lyrical than poetic word choice.
 - What aspects of the remix are different?
