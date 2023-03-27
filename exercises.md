@@ -61,4 +61,11 @@ Planning using an initial line of causation, which you then randomise or shuffle
 (-> 2) They head left.
 
 (-> 3) They head right.
-2. 
+
+2. Learning as they go to balance tote bags, backpacks and wheeled suitcases, Samantha and Tim head left. They pass an entry ramp, which they simultaneously, without speaking, decide is a terrible way to exit. Reaching the far end of the terminal, they look around - no elevator, no signs pointing to an exit. Then, Samantha points. An metal fire-escape, open to the air and a nightmare to carry suitcases down,  juts off the side of the building. Tim checks his watch: not long left.
+
+(-> 4) Go down the fireescape
+
+(-> 3) Head back, and look for a proper exit.
+
+3. 
