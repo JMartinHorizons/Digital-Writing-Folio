@@ -54,3 +54,6 @@
 > I tend to organise my fictions around a series of events. I find it conducive to the writing and completion of a work, and it generally helps me conceptualise the ideas and themes I want to write about. It also helps get me out of over-visualising or over-explaining when I now there is a point of the story I need to reach. 
 - How could you plan hypertext fiction? 
 Planning using an initial line of causation, which you then randomise or shuffle is one approach. I think there has to be a fairly deep consideration of what your hypertext 'type' is. That is to say, what is the nature of the link, is critical, narrative, informational, etc?
+
+## A short branching story
+- (1) 
