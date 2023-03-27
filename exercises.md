@@ -56,4 +56,7 @@
 Planning using an initial line of causation, which you then randomise or shuffle is one approach. I think there has to be a fairly deep consideration of what your hypertext 'type' is. That is to say, what is the nature of the link, is critical, narrative, informational, etc?
 
 ## A short branching story
-- (1) 
+1. Samantha and Tim unpack their suitcases and carry-on bags from the car. They're somewhere in parking structure 4 - level 6, row B, if that helps you at all. Traffic was bad on the way to the airport, so they have less than fifteen minutes to get to check-in. From where they stand, weighed down by bags, the exit is unclear. The terminal is visible to the left through the open concrete parking structure.
+(-> 2) They head left.
+(-> 3) They head right.
+2. 
