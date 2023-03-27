@@ -44,3 +44,13 @@
 > See above
 - Is the remix successful (why or why not)?
 > In some ways I like this remix more than the original, the words tend to work together better, and there is a more lyrical sense to the stanzas. The directness of the address (having pronouns) adds a more conversational or dialogue sense to the piece. Similarly, the new themes and content tends to make for a more colourful, energetic poem. I think this remix succeds in using the constrains of the original poem with a fresh source of words and themes. It's like a generator for endless lyrics that looks back on the lyrics themselves
+
+# *Week 5*
+- How is hypertext fiction different from traditional fiction?
+> I think the way hypertext fiction requires interaction makes it characterised by individual, personal experiences of each text. It also makes it far more difficult to 'complete' a work, like one can say after reading every page of a novel. 
+- How is it different from games? 
+> In hypertext fiction, there is far less need to offer an experience which is entertaining, though some games also challange this. 
+- How do you plan fiction?
+> I tend to organise my fictions around a series of events. I find it conducive to the writing and completion of a work, and it generally helps me conceptualise the ideas and themes I want to write about. It also helps get me out of over-visualising or over-explaining when I now there is a point of the story I need to reach. 
+- How could you plan hypertext fiction? 
+Planning using an initial line of causation, which you then randomise or shuffle is one approach. I think there has to be a fairly deep consideration of what your hypertext 'type' is. That is to say, what is the nature of the link, is critical, narrative, informational, etc?
