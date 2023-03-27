@@ -62,10 +62,10 @@ Planning using an initial line of causation, which you then randomise or shuffle
 
 (-> 3) They head right.
 
-2. Learning as they go to balance tote bags, backpacks and wheeled suitcases, Samantha and Tim head left. They pass an entry ramp, which they simultaneously, without speaking, decide is a terrible way to exit. Reaching the far end of the terminal, they look around - no elevator, no signs pointing to an exit. Then, Samantha points. An metal fire-escape, open to the air and a nightmare to carry suitcases down,  juts off the side of the building. Tim checks his watch: not long left.
+2. Learning as they go to balance tote bags, backpacks and wheeled suitcases, Samantha and Tim head left. Tim thinks they're going the right way; it just makes sense. They pass a steep, car-only ramp, which they concurr, without speaking, is a terrible way to exit. Reaching the far end of the terminal, they look around - no elevator, no signs desgnating an exit. Then, Samantha points. An metal fire escape, open to the air and a nightmare to carry suitcases down,  juts off the side of the building. Tim checks his watch: not long left.
 
-(-> 4) Go down the fireescape
+(-> 4) They go down the fire escape
 
-(-> 3) Head back, and look for a proper exit.
+(-> 3) They head back, and look for a proper exit.
 
-3. 
+3. After thinking for a moment, Tim says he's sure the exit was to the right. As they move along, the two pass a woman in a high-vis vest wheeling a trolley. They greet her, and ask her if the are going the right way. Of course, she's wearing earpods, and continues without responding. Before long, the two see a sign for the exit.  
