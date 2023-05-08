@@ -70,3 +70,24 @@ Planning using an initial line of causation, which you then randomise or shuffle
 (-> 3) They head back, and look for a proper exit.
 
 3. After thinking for a moment, Tim says he's sure the exit was to the right. As they move along, the two pass a woman in a high-vis vest wheeling a trolley. They greet her, and ask her if the are going the right way. Of course, she's wearing earpods, and continues without responding. Before long, the two see a sign for the exit.  
+# *Week 6*
+- Mindwheel
+- Adventure
+- IF 
+
+# *Week 7* 
+-Building out Twine/ IF
+
+# *Week 8*
+-Proposals
+
+# *Week 9* 
+- Covid strikes again.
+
+# *Week 10*
+
+## Audience
+- Who is the audience for your developed creative work?
+>
+-  How does having an audience in mind affect the development of your creative work?
+>
