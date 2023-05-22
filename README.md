@@ -6,7 +6,7 @@ Link to Artist Website
 
 ---
 
-[Readings](readings.md)
+[Responses to Readings](readings.md)
 
 [Exercises & Experiments](exercises.md)
 
