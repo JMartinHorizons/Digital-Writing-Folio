@@ -1,5 +1,9 @@
 # Digital Writing Folio
 
--[Readings](readings.md)
+Statement/ Introduction
+Artist Website
 
--[Exercises](exercises.md)
+[Readings](readings.md)
+[Exercises & Experiments](exercises.md)
+
+Polished Work
