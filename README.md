@@ -1,7 +1,8 @@
 # Digital Writing Folio
 
 Statement/ Introduction
-Artist Website
+
+Link to Artist Website
 
 ---
 
