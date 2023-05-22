@@ -3,8 +3,10 @@
 Statement/ Introduction
 Artist Website
 
+---
+
 [Readings](readings.md)
 
 [Exercises & Experiments](exercises.md)
 
-Polished Work
+Polished Work - Open House
