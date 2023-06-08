@@ -1,6 +1,9 @@
 # Week 1
-### *Electronic Literature: What is it?*
-### Berens, K
+### *Electronic Literature: What is it?* Katherine Hayles N (2007)
+
+### *Decolonize E-Literature? On Weeding the E-Lit Garden* Inman Berens K (2020)
+
+### *The Origins of Electronic Literature: An Overview* Di Rosario G et al. (2021)
 
 # Week 2
 
