@@ -97,6 +97,6 @@ Planning using an initial line of causation, which you then randomise or shuffle
 ## Week 11
 
 ### Publication Opportunities & Workshopping
-> See [reflection on community of practice and workshopping]().
+> See [reflection on community of practice and workshopping](development-community-audience.md).
 
 ## Week 12
