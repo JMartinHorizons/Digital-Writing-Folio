@@ -76,6 +76,10 @@ Planning using an initial line of causation, which you then randomise or shuffle
 ## Week 6
 ### Bitzy experiment & Reflection  
 > (See [Bitzy experiment](https://glistening-salamander-3d2877.netlify.app/))
+> I enjoyed this experiment, because it gave me a good opportunity to dive into bitsy. I was definitely trying to make it more ‘game-like’ here, by working out ways to prompt action and reaction in the code. 
+	I can see that Bitzy is a very particular approach to game making - a tutorial I read made the point that it’s like poetry in how its constraining form is important to the impact and meaning of each Bitzy work. I agree with this, though I am glad I could work out a way to make it something more than a walking simulator.
+	The ways that the interface can be changed (through varying the avatar and rooms, like I have done with the tea dispensing machine) was an idea I found while playing/ reading other Bitzy games. It’s a good way to get around the otherwise limited options to play out interactions and dialogue. 
+
 
 ## Week 7
 ### Images, Audio & Styles for Twine. 
