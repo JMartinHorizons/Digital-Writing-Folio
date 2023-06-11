@@ -72,27 +72,31 @@ Planning using an initial line of causation, which you then randomise or shuffle
 3. After thinking for a moment, Tim says he's sure the exit was to the right. As they move along, the two pass a woman in a high-vis vest wheeling a trolley. They greet her, and ask her if the are going the right way. Of course, she's wearing earpods, and continues without responding. Before long, the two see a sign for the exit.  
 
 ## Week 6
-- Mindwheel
-- Adventure
-- IF 
+> Interactive fiction and Bitzy. (See [Bitzy experiment](https://glistening-salamander-3d2877.netlify.app/))
 
 ## Week 7
--Building out Twine/ IF
+### Images, Audio & Styles for Twine. (See Twine experiments: [images](https://spiffy-dragon-9779fe.netlify.app/) and [styles](https://ornate-buttercream-71221d.netlify.app/))
 
 ## Week 8
--Proposals
+> Proposals (No exercises)
 
 ## Week 9 
-- Covid strikes again.
+> (Class cancelled due to Covid)
 
 ## Week 10
 
 ### Audience
 - Who is the audience for your developed creative work?
->
+> As a Twine work, Open House would already have a fairly vibrant and dedicated online audience, on both the Twine website and through sites like itch.io. There is a diverse community of home-grown makers and players, so a work like mine would certainly have places to find a home. In the mainstream, as we've read and learnt through the history of digital literature, there isn't quite as much appreciation - it would likely be in galleries or experimental fora that people would be ready to accept a digital work, and here I feel like my piece is not quite poetic or visual enough to fit in. The other audience that has seemed receptive to digital form stories is the academy
 -  How does having an audience in mind affect the development of your creative work?
->
+> Thinking about the audience is a common aspect of all writing - certainly, when I write about topics like Open House that are so broadly felt, I'm always thinking about 
+
+### CSS Grid, Background Images & Scaling Images
+> See the [website](https://jmartinhorizons.github.io/), which utilises these techniques.
 
 ## Week 11
+
+### Publication Opportunities & Workshopping
+> See [reflection on community of practice and workshopping]().
 
 ## Week 12
