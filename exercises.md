@@ -1,5 +1,5 @@
 ## Week 1
-
+### GitHub Set-up & Reflection on Practice
 - Create a GitHub account
 - Do the GitHub "Hello World" module
 - Add a repository for the folio
@@ -14,6 +14,7 @@
 
 ## Week 2
 
+### Reflections on Example Works 
 - What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 > Tarako: The words and line structure are the main elements at play. Cloud: There is a poetic treatment of the text in this piece, but it's predominantly pushed forward using visual elements and hyperlinks. Revolution: Text based, with role-playing elements. Shade: Text based again.
 - How are those elements meaningful?
@@ -46,6 +47,7 @@
 > In some ways I like this remix more than the original, the words tend to work together better, and there is a more lyrical sense to the stanzas. The directness of the address (having pronouns) adds a more conversational or dialogue sense to the piece. Similarly, the new themes and content tends to make for a more colourful, energetic poem. I think this remix succeds in using the constrains of the original poem with a fresh source of words and themes. It's like a generator for endless lyrics that looks back on the lyrics themselves
 
 ## Week 5
+### Hypertext Fiction
 - How is hypertext fiction different from traditional fiction?
 > I think the way hypertext fiction requires interaction makes it characterised by individual, personal experiences of each text. It also makes it far more difficult to 'complete' a work, like one can say after reading every page of a novel. 
 - How is it different from games? 
@@ -72,16 +74,18 @@ Planning using an initial line of causation, which you then randomise or shuffle
 3. After thinking for a moment, Tim says he's sure the exit was to the right. As they move along, the two pass a woman in a high-vis vest wheeling a trolley. They greet her, and ask her if the are going the right way. Of course, she's wearing earpods, and continues without responding. Before long, the two see a sign for the exit.  
 
 ## Week 6
-> Interactive fiction and Bitzy. (See [Bitzy experiment](https://glistening-salamander-3d2877.netlify.app/))
+### Bitzy experiment & Reflection  
+> (See [Bitzy experiment](https://glistening-salamander-3d2877.netlify.app/))
 
 ## Week 7
-### Images, Audio & Styles for Twine. (See Twine experiments: [images](https://spiffy-dragon-9779fe.netlify.app/) and [styles](https://ornate-buttercream-71221d.netlify.app/))
+### Images, Audio & Styles for Twine. 
+> (See Twine experiments: [images](https://spiffy-dragon-9779fe.netlify.app/) and [styles](https://ornate-buttercream-71221d.netlify.app/))
 
 ## Week 8
-> Proposals (No exercises)
+### (No Exercises due to Proposals)
 
 ## Week 9 
-> (Class cancelled due to Covid)
+### (Class Cancelled due to Covid)
 
 ## Week 10
 
