@@ -3,7 +3,8 @@
 ### Navigation
 
 ---
-### Link to Artist Website
+
+### [Link to Artist Website](https://jmartinhorizons.github.io/)
 
 ### [Responses to Readings](readings.md)
 
