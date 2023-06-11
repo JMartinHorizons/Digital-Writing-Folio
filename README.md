@@ -1,6 +1,6 @@
 # Digital Writing Folio
 
-### Statement/ Introduction
+### Navigation
 
 ### Link to Artist Website
 
