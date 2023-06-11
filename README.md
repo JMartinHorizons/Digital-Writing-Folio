@@ -2,9 +2,8 @@
 
 ### Navigation
 
-### Link to Artist Website
-
 ---
+### Link to Artist Website
 
 ### [Responses to Readings](readings.md)
 
