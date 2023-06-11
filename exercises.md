@@ -1,4 +1,4 @@
-## *Week 1*
+## Week 1
 
 - Create a GitHub account
 - Do the GitHub "Hello World" module
@@ -12,7 +12,7 @@
 - How do these tools shape the way you write? (e.g. constrain the way you write, or facilitate your writing)
 > Starting with fairly rushed first efforts, editing is a fairly large part of the process. For this, physical and digital formats offer their own pros and cons. It can be helpful to have reminders of the changes made as physical elements left on a page, while it can also be cleaner and more conducive to finishing a piece to delete things in a processer. I tend to find that I also write quicker and with a little less attention when I write with processors. There is less wasted motion than if I need to use pan and paper, though I can also afford to write with a little less thought. 
 
-## *Week 2*
+## Week 2
 
 - What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 > Tarako: The words and line structure are the main elements at play. Cloud: There is a poetic treatment of the text in this piece, but it's predominantly pushed forward using visual elements and hyperlinks. Revolution: Text based, with role-playing elements. Shade: Text based again.
@@ -45,7 +45,7 @@
 - Is the remix successful (why or why not)?
 > In some ways I like this remix more than the original, the words tend to work together better, and there is a more lyrical sense to the stanzas. The directness of the address (having pronouns) adds a more conversational or dialogue sense to the piece. Similarly, the new themes and content tends to make for a more colourful, energetic poem. I think this remix succeds in using the constrains of the original poem with a fresh source of words and themes. It's like a generator for endless lyrics that looks back on the lyrics themselves
 
-## *Week 5*
+## Week 5
 - How is hypertext fiction different from traditional fiction?
 > I think the way hypertext fiction requires interaction makes it characterised by individual, personal experiences of each text. It also makes it far more difficult to 'complete' a work, like one can say after reading every page of a novel. 
 - How is it different from games? 
@@ -71,24 +71,28 @@ Planning using an initial line of causation, which you then randomise or shuffle
 
 3. After thinking for a moment, Tim says he's sure the exit was to the right. As they move along, the two pass a woman in a high-vis vest wheeling a trolley. They greet her, and ask her if the are going the right way. Of course, she's wearing earpods, and continues without responding. Before long, the two see a sign for the exit.  
 
-## *Week 6*
+## Week 6
 - Mindwheel
 - Adventure
 - IF 
 
-## *Week 7* 
+## Week 7
 -Building out Twine/ IF
 
-## *Week 8*
+## Week 8
 -Proposals
 
-## *Week 9* 
+## Week 9 
 - Covid strikes again.
 
-## *Week 10*
+## Week 10
 
 ### Audience
 - Who is the audience for your developed creative work?
 >
 -  How does having an audience in mind affect the development of your creative work?
 >
+
+## Week 11
+
+## Week 12
