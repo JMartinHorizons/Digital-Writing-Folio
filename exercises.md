@@ -33,10 +33,13 @@
 
 ### Week 2 Remixes & Reflections
 [To Make a Dadaist Poem](https://oval-deluxe-garnet.glitch.me/)
+>
 
 [N+7](https://transparent-fuzzy-sprout.glitch.me/)
+>
 
 [We Walk to You](https://marvelous-amused-marsupial.glitch.me/)
+> This was the poetry generator that I played with the most, by changing line generation, word choice and the overall tone of the text. For one thing, the experience with entering and altering the script was a good introduction to the working of the language. It’s apparent to me that maths, as has been brought up through the readings on Oulipo, is an unavoidable aspect of writing through digital forms such as this. In this experiment, the way I have changed the stanzas to sometimes include couplets spirals into chaotic patterns of lines. It doesn’t undermine the generator entirely, but it doesn’t always work.
 
 ### Questions on remix of 'Tarako Gorge': 'Camel Tail' by Sonny Rae Tempest
 - What aspects of the remix are the same?
@@ -72,6 +75,9 @@ Planning using an initial line of causation, which you then randomise or shuffle
 (-> 3) They head back, and look for a proper exit.
 
 3. After thinking for a moment, Tim says he's sure the exit was to the right. As they move along, the two pass a woman in a high-vis vest wheeling a trolley. They greet her, and ask her if the are going the right way. Of course, she's wearing earpods, and continues without responding. Before long, the two see a sign for the exit.  
+
+> This first experiment was much more text focused, perhaps overly so. I was thinking about how I might organise the events of the story and in this I was defaulting to  thinking about 'Choose your own adventure' type stories. Reflecting on this, that level of granular, action-focused decision making isn’t necessarily the most interesting way to take a Twine work. Better options would be saving reader interaction for key moments, either making branching or other structural shifts instead of every move. The other reason for this is to not have the work spiral out of control into an overly complex work.
+
 
 ## Week 6
 ### Bitzy experiment & Reflection  
