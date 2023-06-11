@@ -6,8 +6,10 @@
 
 ### [Link to Artist Website](https://jmartinhorizons.github.io/)
 
-### [Reflections on Creative Community, Audience and Readings](readings.md)
+### [Reflections on Development, Community & Audience]()
 
-### [Exercises, Experiments and Development](exercises.md)
+### [Responses to Readings](readings.md)
 
-### Final Creative Work - Open House
+### [Exercises& Experiments](exercises.md)
+
+### [Final Creative Work - Open House]()
