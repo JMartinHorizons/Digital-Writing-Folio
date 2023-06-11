@@ -1,13 +1,13 @@
 # Digital Writing Folio
 
-Statement/ Introduction
+### Statement/ Introduction
 
-Link to Artist Website
+### Link to Artist Website
 
 ---
 
-[Responses to Readings](readings.md)
+### [Responses to Readings](readings.md)
 
-[Exercises & Experiments](exercises.md)
+### [Exercises & Experiments](exercises.md)
 
-Polished Work - Open House
+### Polished Work - Open House
