@@ -30,7 +30,7 @@
 - Create a process (a process for creating writing such as picking the third word of each page of a book)
 >  
 
-### Week 2 Remixes
+### Week 2 Remixes & Reflections
 [To Make a Dadaist Poem](https://oval-deluxe-garnet.glitch.me/)
 
 [N+7](https://transparent-fuzzy-sprout.glitch.me/)
@@ -55,7 +55,7 @@
 - How could you plan hypertext fiction? 
 Planning using an initial line of causation, which you then randomise or shuffle is one approach. I think there has to be a fairly deep consideration of what your hypertext 'type' is. That is to say, what is the nature of the link, is critical, narrative, informational, etc?
 
-### A short branching story
+### A Short Twine Story & Reflection
 [The story in Twine](https://ornate-buttercream-71221d.netlify.app/)
 1. Samantha and Tim unpack their suitcases and carry-on bags from the car. They're somewhere in parking structure 4 - level 6, row B, if that helps you at all. Traffic was bad on the way to the airport, so they have less than fifteen minutes to get to check-in. From where they stand, weighed down by bags, the exit is unclear. The terminal is visible to the left through the open concrete parking structure.
 
