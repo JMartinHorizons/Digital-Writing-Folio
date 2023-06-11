@@ -16,6 +16,6 @@
 
 ### [Responses to Readings](readings.md)
 
-### [Exercises& Experiments](exercises.md)
+### [Exercises & Experiments](exercises.md)
 
-### [Final Creative Work - Open House]()
+### [Creative Work - Open House]()
