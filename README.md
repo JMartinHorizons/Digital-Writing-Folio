@@ -6,7 +6,7 @@
 
 ### [Link to Artist Website](https://jmartinhorizons.github.io/)
 
-### [Reflections on Development, Community & Audience]()
+### [Reflections on Development, Community & Audience](development-community-audience.md)
 
 ### [Responses to Readings](readings.md)
 
